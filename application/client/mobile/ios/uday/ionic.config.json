@@ -1,0 +1,7 @@
+{
+  "name": "uday",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
